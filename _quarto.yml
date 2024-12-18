@@ -3,7 +3,7 @@ project:
   output-dir: docs
   
 website:
-  title: "Research in R"
+  title: "Data Project"
   navbar:
     left:
       - href: index.qmd

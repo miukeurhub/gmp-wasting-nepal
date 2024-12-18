@@ -1,5 +1,5 @@
 ---
-title: "The Project"
+title: "Mugi's Data Project"
 about:
   id: me
   template: broadside
@@ -11,4 +11,6 @@ about:
 
 :::
 
-Thanks for checking out my web site!
+Welcome to Mugi’s Data Project!
+
+This site showcases the work I completed during this my time in SIPA, including my data analysis project. Go ahead and click the Project tab!. If you have any questions or suggestions on how to improve this site, feel free to reach out to me [here](mailto:msm2287@columbia.edu).

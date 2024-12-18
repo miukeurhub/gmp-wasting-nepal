@@ -2,8 +2,8 @@
 title: "Projects"
 ---
 
-## [Project 1](GMP-in-Nepal-Web.html)
+## [R-Project](GMP-in-Nepal-Web.html)
 
-## Project 2
+## [Python Project](https://computing-final.readthedocs.io/en/latest/index.html)
 
 ## Project 3
